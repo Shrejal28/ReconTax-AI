@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pandas
+pyarrow
+numpy
+scikit-learn
+lightgbm
+sqlalchemy
+bcrypt
+pytesseract
+pdf2image
+python-multipart
+pillow
+pytest
+httpx
