@@ -8,16 +8,24 @@
 ## Screenshots
 [screencapture-localhost-5173-2026-09-17-22_29_04.pdf](https://github.com/user-attachments/files/32350220/screencapture-localhost-5173-2026-09-17-22_29_04.pdf)
 
-
 [screencapture-localhost-5173-triage-2026-09-17-22_33_58.pdf](https://github.com/user-attachments/files/32350266/screencapture-localhost-5173-triage-2026-09-17-22_33_58.pdf)
+
 [screencapture-localhost-5173-triage-2026-09-17-22_33_42.pdf](https://github.com/user-attachments/files/32350264/screencapture-localhost-5173-triage-2026-09-17-22_33_42.pdf)
+
 [screencapture-localhost-5173-tax-planning-2026-09-17-22_34_58.pdf](https://github.com/user-attachments/files/32350263/screencapture-localhost-5173-tax-planning-2026-09-17-22_34_58.pdf)
+
 [screencapture-localhost-5173-scoring-2026-09-17-22_33_04.pdf](https://github.com/user-attachments/files/32350250/screencapture-localhost-5173-scoring-2026-09-17-22_33_04.pdf)
+
 [screencapture-localhost-5173-reconciliation-2026-09-17-22_33_27.pdf](https://github.com/user-attachments/files/32350247/screencapture-localhost-5173-reconciliation-2026-09-17-22_33_27.pdf)
+
 [screencapture-localhost-5173-ingestion-2026-09-17-22_32_40.pdf](https://github.com/user-attachments/files/32350246/screencapture-localhost-5173-ingestion-2026-09-17-22_32_40.pdf)
+
 [screencapture-localhost-5173-ingestion-2026-09-17-22_32_09.pdf](https://github.com/user-attachments/files/32350244/screencapture-localhost-5173-ingestion-2026-09-17-22_32_09.pdf)
+
 [screencapture-localhost-5173-dashboard-2026-09-17-22_29_51.pdf](https://github.com/user-attachments/files/32350238/screencapture-localhost-5173-dashboard-2026-09-17-22_29_51.pdf)
+
 [screencapture-localhost-5173-dashboard-2026-09-17-22_29_51 (1).pdf](https://github.com/user-attachments/files/32350229/screencapture-localhost-5173-dashboard-2026-09-17-22_29_51.1.pdf)
+
 [screencapture-localhost-5173-audit-2026-09-17-22_34_29.pdf](https://github.com/user-attachments/files/32350227/screencapture-localhost-5173-audit-2026-09-17-22_34_29.pdf)
 
 
