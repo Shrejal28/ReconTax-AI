@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  color-scheme: light;
+  /* Bumps every rem-based Tailwind text-* size (text-xs, text-sm, etc.)
+     up by ~12.5% globally, since the default 16px base was reading too
+     small throughout the app. */
+  font-size: 18px;
+  font-family: "Poppins", ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background-color: #fafaf9; /* stone-50 — warm off-white base, not pure white */
+}
