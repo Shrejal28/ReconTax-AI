@@ -7,6 +7,7 @@
 ---
 ## Screenshots
 [screencapture-localhost-5173-2026-09-17-22_29_04.pdf](https://github.com/user-attachments/files/32350220/screencapture-localhost-5173-2026-09-17-22_29_04.pdf)
+
 [screencapture-localhost-5173-triage-2026-09-17-22_33_58.pdf](https://github.com/user-attachments/files/32350266/screencapture-localhost-5173-triage-2026-09-17-22_33_58.pdf)
 
 [screencapture-localhost-5173-triage-2026-09-17-22_33_42.pdf](https://github.com/user-attachments/files/32350264/screencapture-localhost-5173-triage-2026-09-17-22_33_42.pdf)
